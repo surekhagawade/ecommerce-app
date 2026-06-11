@@ -1,0 +1,8 @@
+POST http://localhost:5000/api/orders
+Content-Type: application/json
+
+{
+  "userId": "6667fe199cc5a703d1576db2 ",
+  "productId": "666804a1122a76f28b49dbb1",
+  "quantity": 1
+}
